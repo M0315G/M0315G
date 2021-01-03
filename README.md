@@ -1,13 +1,13 @@
 <div align="center">
   <h2> 
-    Hi, there! I am Manish Gupta <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
+    Hi, there! I am Manish Gupta <img src="https://github.com/M0315G/M0315G/blob/main/hi.gif" width="30px">
   </h2>
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/manish-gupta-p2000/)
-[![Medium](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/kogisin_jayb/)](https://medium.com/@manish15gupta03)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@manish15gupta03/)](https://medium.com/@manish15gupta03)
 
 🔭 &nbsp;I am currently working in Machine Learning industry.\
 💡 &nbsp;I wish to combine my Technical skills with the principles of Entrepreneurship to create something meaningfull.\
