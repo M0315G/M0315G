@@ -32,4 +32,4 @@
 Technologies that I've been learning and I've picked up along my programming journey.
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kogisin/kogisin)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=M0315G/M0315G)
