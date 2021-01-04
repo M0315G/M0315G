@@ -22,8 +22,8 @@
 </div>
 <p align="center">
   <a href="https://github.com/M0315G">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M0315G&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M0315G&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M0315G&count_private=true&theme=onedark&hide_border=true&show_icons=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0315G&theme=onedark&hide_border=true&langs_count=9&layout=compact"/>
   </a>
 </p>
 
@@ -32,4 +32,13 @@
 Technologies that I've been learning and I've picked up along my programming journey.
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=M0315G/M0315G)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M0315G" alt="M0315G" />
+    <a href="https://github.com/M0315G/"><img src="https://img.shields.io/github/followers/M0315G?style=flat&color=red&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/M0315G/"><img src="https://img.shields.io/github/last-commit/M0315G/M0315G?style=flat&color=brightgreen&label=Last%20Updated%20"/></a>
+</p>
+
+---
