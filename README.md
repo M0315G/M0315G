@@ -11,7 +11,7 @@
 
 🔭 &nbsp;I am currently working in Machine Learning industry.\
 💡 &nbsp;I wish to combine my Technical skills with the principles of Entrepreneurship to create something meaningfull.\
-✍️ &nbsp;In my free time, I uaually play basketball or watch Netflix and chill.
+✍️ &nbsp;In my free time, I usually play basketball or watch Netflix and chill.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
