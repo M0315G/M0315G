@@ -7,9 +7,9 @@ I am Manish Gupta, an experienced engineer with a passion for building innovativ
 <br><br>
 Here's a quick overview of my journey:  
 
-- Worked with a team at **Google X (now Google Labs)<img src=>**, tackling automation problems with LLMs to help developers write, debug, and manage large codebases.  
+- Worked with a team at **Google X (now [Google Labs](https://labs.google))**, tackling automation problems with LLMs to help developers write, debug, and manage large codebases.  
 - Specialized in training and developing LLMs **before the Gen-AI boom**, including projects on translation using transformer models.  
-- Currently at **Immersfy** as a Founding Engineer, managing all things tech—LLMs, diffusion models, deployment at scale, and ensuring secure, efficient applications.  
+- Currently at **[Immersfy](https://www.immersfy.com)** as a Founding Engineer, managing all things tech—LLMs, diffusion models, deployment at scale, and ensuring secure, efficient applications.  
 
 I also love blending hands-on tech work with a broader product vision, bringing ideas to life while leading and mentoring teams. Let's build something amazing! 🚀
 
